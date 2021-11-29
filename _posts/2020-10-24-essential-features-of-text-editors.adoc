@@ -1,0 +1,111 @@
+---
+layout: post
+title: "Essential features of text editors for technical writers"
+tags: [Writing Tools, Text Editing]
+featured_image: assets/images/posts/2020/placeholder.jpg
+---
+= Essential text editor features for technical writers
+:imagesdir: assets/images/posts/2020
+
+STATUS:
+Making a concept map for this subject. Transfer headings to this file once the organization and outline is complete.
+
+As modern technical writers write in plain text files opened and edited with a text editor.
+For writers transitioning to plain text writing, it can be difficult to figure out how make the best use of a text editor.
+In this article, we'll look at the features available in text editors that make it faster and more enjoyable to write plain text documents.
+
+== Background
+
+Working in a text editor is very different from working in a word processor such as Microsoft Word or a page layout program such as Adobe FrameMaker.
+It's also different from working in a specialized XML editor, such as OxygenXML, which you might use if you're writing in DITA or DocBook XML.
+And it's different from working in a specialized HTML editor, such as Dreamweaver, which you might (but hopefully won't) use if you're directly coding websites.
+
+There are scores of different text editors you can use for technical writing.
+They vary widely, from the basic Windows Notepad to the mid-range Notepad++, and the advanced Sublime Text and Microsoft Visual Studio Code.
+
+== Basic features
+
+All text editors obviously allow you to open, read, and edit text.
+Most also support basic functions such as:
+
+* Cut, copy, and paste
+* Undo/redo
+* Formatting, such as text wrapping and font selection
+* Find specific text within a file
+
+== Essential features
+
+While you can use any text editor for technical writing, more advanced text editors have some features that make writing faster and more pleasant.
+I would list these as the most important, not in any particular order:
+
+.Display features
+* Multiple windows
+* Section folding
+* Syntax highlighting
+* Colorscheme
+
+.Editing features
+* Multiple cursors
+* Column-based editing
+* Spellcheck
+* Speed
+* Multiple views into a file
+* Vertical line motion
+
+.File management features
+* Find and replace across many files in a folder
+* Find and replace with regular expressions
+* The ability to visualize the differences between two files
+
+.Configuration features
+* The ability to create your own shortcuts and run macros to make repetitive tasks easier
+* The ability to extend capabilities with plugins
+
+=== Multiple windows
+
+=== Section folding
+
+=== Syntax highlighting
+
+=== Colorschemes
+
+=== Multiple cursors
+
+=== Column-based editing
+
+=== Spellcheck
+
+=== Opening the same file twice
+
+=== Moving lines up and down
+
+=== Find and replace across multiple files
+
+=== Regular expressions
+
+=== Visualize differences
+
+=== Speed
+
+In some text editors, opening large files can slow down performance, with the editor taking seconds to respond to keystrokes.
+Other text editors are optimized for performance by only loading into memory the text that is currently showing on the screen.
+
+== Other useful features
+
+Other features some writers may find useful are:
+
+* Integration with Git
+* The ability to preview an output within the editor
+
+== More information
+
+* https://en.wikipedia.org/wiki/Comparison_of_text_editors[A list of text editors]
+
+
+// Don't go into detail with these
+
+////
+REFRENCES
+
+https://en.wikipedia.org/wiki/Text_editor
+////
