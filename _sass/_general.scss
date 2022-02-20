@@ -165,6 +165,10 @@ blockquote cite {
 	margin-top: 15px;
 }
 
+.quoteblock {
+  margin-bottom: 2rem;
+}
+
 dl {
 	margin: 0;
 }
@@ -303,6 +307,12 @@ input[type="submit"]:active {
 img {
 	height: auto;
 	max-width: 100%;
+  border: solid 1px #d4d3d3;
+  padding: 8px;
+}
+
+.imageblock {
+  margin-bottom: 2rem;
 }
 
 .kg-image-card {
@@ -602,6 +612,11 @@ pre[class*="language-"] {
 	-moz-transform:    translateY(7px) rotate(-45deg);
 	transform:         translateY(7px) rotate(-45deg);
 }
+
+.cover .arrow-down:before {background-color: $gray-superlight!important;}
+.cover .arrow-down:after {background-color: $gray-superlight!important;}
+.cover .arrow-up:before {background-color: $gray-superlight!important;}
+.cover .arrow-up:after {background-color: $gray-superlight!important;}
 
 /* Buttons */
 .button {
