@@ -2,7 +2,7 @@
 layout: post
 title: "Useful usages"
 tags: [writing]
-featured_image: assets/images/posts/2020/placeholder.jpg
+featured_image: assets/images/covers/placeholder.jpg
 ---
 
 = Useful usages

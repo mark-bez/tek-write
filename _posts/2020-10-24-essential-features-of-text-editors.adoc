@@ -2,7 +2,7 @@
 layout: post
 title: "Essential features of text editors for technical writers"
 tags: [Writing Tools, Text Editing]
-featured_image: assets/images/posts/2020/placeholder.jpg
+featured_image: assets/images/covers/placeholder.jpg
 ---
 = Essential text editor features for technical writers
 :imagesdir: assets/images/posts/2020

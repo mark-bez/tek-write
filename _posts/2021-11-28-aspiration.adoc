@@ -2,7 +2,7 @@
 layout: post
 title: "Aspiration"
 tags: [Personal]
-featured_image: assets/images/posts/2020/placeholder.jpg
+featured_image: assets/images/covers/placeholder.jpg
 ---
 = Aspiration
 :imagesdir: assets/images/posts/2020
