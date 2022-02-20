@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="576.94958"
+   height="119.72488"
+   viewBox="0 0 152.65125 31.677212"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="upslash-downslash.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="97.328873"
+       y="154.0253"
+       width="58.850891"
+       height="22.111616"
+       id="rect1432" />
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path999" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1141"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1139" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path878" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path999-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL-0-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path999-4-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path999-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL-12"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path999-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL-0-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path999-4-2" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="257.32272"
+     inkscape:cy="59.573278"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1898"
+     inkscape:window-height="1484"
+     inkscape:window-x="644"
+     inkscape:window-y="417"
+     inkscape:window-maximized="0"
+     units="px"
+     lock-margins="false"
+     fit-margin-top="3"
+     fit-margin-left="3"
+     fit-margin-right="3"
+     fit-margin-bottom="3" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(16.415552,-120.27666)">
+    <g
+       id="g1056">
+      <rect
+         id="rect10-0"
+         width="27.214285"
+         height="27.214285"
+         x="9.6559"
+         y="121.81033"
+         style="fill:#000000;fill-opacity:0.232353;stroke-width:0.264583"
+         ry="7.0870538" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 16.235756,144.93117 C 29.534374,126.75423 29.534374,126.75423 29.534374,126.75423"
+         id="path835-6" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-0-3)"
+         d="M 26.393183,142.52499 C 39.617869,123.63817 39.617869,123.63817 39.617869,123.63817"
+         id="path855-2" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:4.93889px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';stroke-width:0.264583"
+         x="4.8210549"
+         y="130.4227"
+         id="text1191-8"><tspan
+           sodipodi:role="line"
+           id="tspan1189-2"
+           x="4.8210549"
+           y="130.4227"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Bold';text-align:end;text-anchor:end;stroke-width:0.264583" /><tspan
+           sodipodi:role="line"
+           x="4.8210564"
+           y="136.76796"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Bold';text-align:end;text-anchor:end;stroke-width:0.264583"
+           id="tspan1304">Upslash</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:4.9389px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';stroke-width:0.264583"
+         x="97.540504"
+         y="137.24425"
+         id="text1191-8-2"><tspan
+           sodipodi:role="line"
+           x="97.540504"
+           y="137.24425"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Bold';text-align:end;text-anchor:end;stroke-width:0.264583"
+           id="tspan1337">Downslash</tspan></text>
+      <rect
+         id="rect10"
+         width="27.214285"
+         height="27.214285"
+         x="103.11191"
+         y="121.07041"
+         style="fill:#000000;fill-opacity:0.232353;stroke-width:0.264583"
+         ry="7.0870538" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 109.69176,126.0143 c 13.29862,18.17695 13.29862,18.17695 13.29862,18.17695"
+         id="path835" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-0-4)"
+         d="m 121.23966,130.87716 c 13.22461,18.8867 13.22461,18.8867 13.22461,18.8867"
+         id="path855-2-4" />
+    </g>
+    <text
+       xml:space="preserve"
+       id="text1430"
+       style="font-weight:bold;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';white-space:pre;shape-inside:url(#rect1432);" />
+  </g>
+</svg>

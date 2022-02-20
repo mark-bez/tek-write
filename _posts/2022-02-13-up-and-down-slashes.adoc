@@ -1,0 +1,189 @@
+---
+layout: post
+title: "The mysterious case of the up and down slashes"
+tags: [Computing]
+featured_image: assets/images/covers/keyboard-right-side.jpg
+---
+= The mysterious case of the up and down slashes
+:figure-caption!:
+:imagesdir: assets/images/posts/2022
+
+I have consistently struggled to remember which keyboard key is the forward slash and which is the backslash, but until now have never taken the time to figure out a way to remember it.
+If you also have trouble with slashes, or are curious about where their names come from, this article is for you.
+
+== Naming inconsistency
+
+When starting my analysis, I first noticed the naming inconsistency.
+The keys are named _forward slash_ and _backslash_, not _forward slash_ and _back**ward** slash_.
+There is a reason for this, which I will come back to later.
+
+== Naming origins
+
+As forward and back(ward) are directions, can we assume these keys are named for the direction their diagonals point in?
+Let's examine this idea.
+
+In western languages we read from left to right.
+This must mean that a forward slash diagonal points forward, which is to the right, as shown in the following diagram. 
+
+image::slash-direction.svg[Image of slash key direction]
+
+It does point forward. 
+It also points up.
+
+Logically, this means the backslash must point backward (left).
+Let's take a look.
+
+image::backslash-direction.svg[Image of backslash key direction]
+
+Reading from the left, the backslash diagonal actually points forward and down.
+It doesn't point backward at all.
+It is impossible for the diagonal to point against the reading direction.
+
+Logically, we should really call these keys the _upslash_ and _downslash_, also making easier to remember them.
+
+image::upslash-downslash.svg[]
+
+But, since when was the English language logical?
+
+== Positional mnemonic
+
+After failing in my first attempt to remember which key is which by applying naming logic, I next looked at the positions of the keys on the keyboard.
+I wondered if I could find a positional mnemonic that would help.
+Sure enough, the **Back**slash key lies directly underneath the **BACK**SPACE key as you can see in the following photo.
+
+image::keyboard-backslash.jpg[]
+
+By elimination, this makes the diagonal key on the bottom row next to the SHIFT key the forward slash.
+
+image::keyboard-slash.jpg[]
+
+Therefore, if a colleague dictating a filepath over Zoom says, "Backslash" she means the key under the BACKSPACE key.
+As my keyboards have the word 'BACKSPACE' printed on the key, it is easy for me to know which key to press.
+If my colleague says, "Forward slash" I know to press the diagonal key that is NOT under the BACKSPACE key.
+
+I should note that instead of the word 'BACKSPACE', other keyboards use an arrow, the word 'delete', or something else.
+If you have one of those keyboards, I trust you can do the necessary quick mental translation.
+
+That is all well and good, but what if I'm in a coffee shop reading a book about regular expressions and have no computer to refer to? 
+Here is a regular expression from a book that I have probably taken to a coffee shop at some time.
+
+[source,txt]
+----
+http:\/\/[\w.\/]+
+----
+
+How do I know the right way to say these slashes?
+My positional mnemonic doesn't help because I don't have my computer to refer to.
+It was time to dig deeper. 
+Maybe if I understand the origins of these diagonal marks there will be a clue that will help me remember which is which.
+
+== The slash 
+
+I have a giant desktop typewriter that was made in 1956.
+It has a forward slash key below the question mark but no backslash key.
+
+image::typewriter-slash.jpg[]
+
+A little research shows that the forward slash key has been used on typewriters since the 1800's, although it isn't always on the bottom row.
+A trip over to Wikipedia shows that the forward diagonal punctuation mark has an even longer history.
+It has been in general use since medieval times when, among other things, it was used to separate lines in the following manner.
+
+[quote, Robert Frost]
+The woods are lovely, dark, and deep, */* But I have promises to keep, */* And miles to go before I sleep"
+
+This diagonal punctuation mark has numerous other historical names, such as virgule, stroke, oblique, and solidus.
+However, since the early 60's it has generally been known as just the _slash_.
+
+So, that's the slash. 
+What about the backslash?
+
+== The backslash
+
+Vintage typewriters have no backslash key, but do modern typewriters have it? 
+There is a company called Nakajima that still makes (electronic) typewriters, and from photos it is clear they also have no backslash key.
+
+It seems, then, that the slash has been used for a long time and is the only diagonal key used on typewriters. 
+The backslash key is specific to computing.
+
+Wikipedia says that the character we now know as the backslash first appeared on teletype (teleprinter) machines in the 1930's although it is not known what it was used for.
+The following photo shows the slash key on the far right of the front row and the backslash character above it.
+
+.Photo by Tadfafty distributed under a CC BY-SA 4.0
+image::teletype_wheatstone_perforator_keyboard.jpg[]
+
+Much later, in the 1960's, IBM needed an extra character to represent new programming elements and they re-used the teletype character.
+They gave it the name 'backslash' because the direction of the diagonal is opposite from that of the slash.
+
+== Slash key naming ambiguity
+
+With the addition of the backslash key to the computer keyboard, a little ambiguity was introduced.
+
+If we say, "Slash" do we really mean just slash or might we possibly mean backslash? 
+To eliminate the ambiguity it has become common for people to say 'forward slash' instead of 'slash'.
+I’ve definitely been in the forward slash camp, but now that I understand the historical context I plan to defect.
+Plain 'slash' is good enough for me now.
+
+The way the name 'forward slash' grew up explains the naming inconsistency noted at the beginning of this article.
+The name 'backslash' was used to distinguish the new key needed for computing from the general 'slash' key.
+To make it clear that a slash really is a slash, we could use any antonym of back, such as 'hind', 'fore', or 'rear'.
+However, 'hindslash', 'foreslash', and 'rearslash' don't sound that great  so, I guess, the term 'forward slash' stuck as the best option.
+
+== North Star mnemonic
+
+Now, let’s return to the book-in-a-coffee-shop problem.
+If I am reading a book to myself and come across a "/", how do I know whether to say slash or backslash? 
+The first clue is in the subject matter of the book.
+If the book has nothing to do with computing, the diagonal character is almost certainly the plain ol' general purpose slash you and I have been using for years to write fractions such as 1/2 and 1/4 and dates such as 2022/02/20.
+People were typing fractions and dates on typewriters long before computers existed, and that is what the diagonal key at the bottom of the typewriter keyboard is for.
+
+But what if, like my regular expressions book, the subject matter is about computing and has both types of slash?
+Remember this?
+
+[source,txt]
+----
+http:\/\/[\w.\/]+
+----
+
+Knowing that the diagonal character in fractions (1/2) is the vintage, original slash should be all we need to translate the symbols into words.
+But, just to be thorough, I still wanted to find a mnemonic that I could picture in my mind because visuals always help.
+
+Here's what I came up with.
+
+image::north-star.svg[]
+
+In this mnemonic, the ENTER (RETURN) key is our North Star, the guiding point in the sky (at least for those of us in the Northern Hemisphere).
+Everything points to the North Star.
+In the standard western reading direction, from left to right, the bottom-row slash diagonal points up to the 'North Star'.
+The backslash diagonal near the top points down to the 'North Star'.
+The slash points up and the backslash points down.
+
+And here's one more visual. 
+Outstretch your right arm to make a vintage slash.
+Now, pivot your arm at the shoulder *back* the other way to the left to make a **back**slash.
+
+image::arm-slash.svg[]
+
+== When to use each slash
+
+To end this story, here is a reminder of when to use the slash and backslash keys.
+
+Use the slash in everyday contexts such as:
+
+* Dates (2022/02/20) 
+* Fractions (1/4) 
+* To separate choices (yes/no) 
+* For page numbers and total page counts (17/64) 
+* For two-letter initialisms (A/C, b/w) 
+* For abbreviations (/w, b/c) 
+
+Use the slash in computing for: 
+
+* UNIX and MacOS local and network filepath directory separators (/home/mark/Pictures/photo.jpg)
+* Internet URLs (http://www.tek-write.com)
+* Commandline switches (dir /A /F > dir.txt) 
+* HTML and XML closing tags (<p>This is a paragraph.</p>) 
+
+Use the backslash in computing for: 
+
+* Windows local and network filepath directory separators (C:\Users\mark\Documents\notes\a-note.txt)
+* Special character escapes used in text editing (for example in regular expressions \n means newline and \t means tab)
